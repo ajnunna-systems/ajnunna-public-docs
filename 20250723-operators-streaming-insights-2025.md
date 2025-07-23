@@ -217,9 +217,10 @@ To everyone who shared their stories, frustrations, and hopes for the future: th
 **Author:** Ajnunna Systems LLC  
 **Date:** July 23, 2025
 
-  [Streaming Operations Reality Check 2025: You're Not Alone](https://ajnunnasystems.github.io/ajnunna-public-docs) © 2025 by [Ajnunna Systems LLC](https://github.com/orgs/ajnunna-systems) is licensed under [CC BY-SA 
-  4.0](https://creativecommons.org/licenses/by-sa/4.0/) 
-  
-  ![CC](https://mirrors.creativecommons.org/presskit/icons/cc.svg) 
-  ![BY](https://mirrors.creativecommons.org/presskit/icons/by.svg)
-  ![SA](https://mirrors.creativecommons.org/presskit/icons/sa.svg)
+<div class="license-section">
+
+[Streaming Operations Reality Check 2025: You're Not Alone](https://ajnunna-systems.github.io/ajnunna-public-docs) © 2025 by [Ajnunna Systems LLC](https://github.com/orgs/ajnunna-systems) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 
+
+![CC](https://mirrors.creativecommons.org/presskit/icons/cc.svg) ![BY](https://mirrors.creativecommons.org/presskit/icons/by.svg) ![SA](https://mirrors.creativecommons.org/presskit/icons/sa.svg)
+
+</div>

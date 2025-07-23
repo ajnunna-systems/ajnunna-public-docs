@@ -9,11 +9,11 @@ This site contains our public documentation, industry insights, and reports focu
 
 ## Latest Reports
 
-- [Streaming Operations Reality Check 2025: You're Not Alone](./20250723-operators-streaming-insights-2025.html) - July 23, 2025
+- [Streaming Operations Reality Check 2025: You're Not Alone](./20250723-operators-streaming-insights-2025) - July 23, 2025
 
 ## About
 
-Ajnunna Systems LLC provides industry insights and analysis for streaming operations professionals. Our research is based on conversations with operators across the industry and aims to address the real challenges faced by technical teams.
+Ajnunna Systems is a startup driven by curiosity and a commitment to innovation. We’re developing a suite of modular streaming and AI automation tools designed for creators and businesses seeking flexibility and efficiency.
 
 ## License
 
