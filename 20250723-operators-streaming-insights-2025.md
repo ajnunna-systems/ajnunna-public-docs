@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Streaming Operations Reality Check 2025: You're Not Alone"
+---
+
 # Streaming Operations Reality Check 2025: You're Not Alone
 
 ## TL;DR - The Quick Truth
@@ -219,8 +224,10 @@ To everyone who shared their stories, frustrations, and hopes for the future: th
 
 <div class="license-section">
 
-[Streaming Operations Reality Check 2025: You're Not Alone](https://ajnunna-systems.github.io/ajnunna-public-docs) © 2025 by [Ajnunna Systems LLC](https://github.com/orgs/ajnunna-systems) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 
+**[Streaming Operations Reality Check 2025: You're Not Alone]({{ "/" | relative_url }}) © 2025 by [Ajnunna Systems LLC](https://github.com/orgs/ajnunna-systems)** is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-![CC](https://mirrors.creativecommons.org/presskit/icons/cc.svg) ![BY](https://mirrors.creativecommons.org/presskit/icons/by.svg) ![SA](https://mirrors.creativecommons.org/presskit/icons/sa.svg)
+<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="CC" style="height: 1.2em; margin: 0 0.2em; vertical-align: middle;">
+<img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="BY" style="height: 1.2em; margin: 0 0.2em; vertical-align: middle;">
+<img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="SA" style="height: 1.2em; margin: 0 0.2em; vertical-align: middle;">
 
 </div>

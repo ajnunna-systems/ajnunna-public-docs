@@ -153,6 +153,16 @@ pre {
   padding: 0 1rem;
 }
 
+// Hide redundant page title when we have H1
+.post-title, .page-title {
+  display: none;
+}
+
+// Improve navigation/breadcrumb area
+.page-content .wrapper {
+  padding-top: 1rem;
+}
+
 // Responsive improvements
 @media (max-width: 768px) {
   .site-title {
