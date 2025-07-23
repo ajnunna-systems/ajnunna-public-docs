@@ -21,6 +21,7 @@ exclude:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-sass-converter
 
 # Site navigation and metadata
 author: "Ajnunna Systems LLC"
