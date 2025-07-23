@@ -211,3 +211,15 @@ To everyone who shared their stories, frustrations, and hopes for the future: th
 2. Robert Half. (April 2025). Building Future-Forward Tech Teams report.
 
 *All quotes and scenarios have been anonymized to protect individual and company identities. Industry statistics are sourced from public reports as cited.*
+
+---
+
+**Author:** Ajnunna Systems LLC  
+**Date:** July 23, 2025
+
+  [Streaming Operations Reality Check 2025: You're Not Alone](https://ajnunnasystems.github.io/ajnunna-public-docs) © 2025 by [Ajnunna Systems LLC](https://github.com/orgs/ajnunna-systems) is licensed under [CC BY-SA 
+  4.0](https://creativecommons.org/licenses/by-sa/4.0/) 
+  
+  ![CC](https://mirrors.creativecommons.org/presskit/icons/cc.svg) 
+  ![BY](https://mirrors.creativecommons.org/presskit/icons/by.svg)
+  ![SA](https://mirrors.creativecommons.org/presskit/icons/sa.svg)

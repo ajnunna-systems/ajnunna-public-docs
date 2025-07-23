@@ -1,0 +1,31 @@
+title: "Ajnunna Systems LLC - Public Documentation"
+description: "Industry insights and reports on streaming operations and technology"
+baseurl: ""
+url: "https://ajnunna-systems.github.io"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Exclude files from processing
+exclude:
+  - CLAUDE.md
+  - .DS_Store
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Plugin settings
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Site navigation and metadata
+author: "Ajnunna Systems LLC"
+email: "contact@ajnunnasystems.com"
+
+# License information
+license: "CC BY-SA 4.0"
+license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
