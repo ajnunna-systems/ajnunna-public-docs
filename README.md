@@ -4,7 +4,7 @@ This repository contains public documentation, industry insights, and reports fr
 
 ## 🌐 Live Site
 
-The documentation is published at: **https://ajnunna-systems.github.io/ajnunna-public-docs**
+The documentation is published at: **https://swag.ajnunnasystems.com/ajnunna-public-docs**
 
 ## 📁 Repository Structure
 
@@ -161,7 +161,7 @@ All content in this repository is licensed under [Creative Commons Attribution-S
 
 - **Organization**: [Ajnunna Systems LLC](https://github.com/orgs/ajnunna-systems)
 - **Email**: contact@ajnunnasystems.com
-- **Website**: https://ajnunna-systems.github.io/ajnunna-public-docs
+- **Website**: https://swag.ajnunnasystems.com/ajnunna-public-docs
 
 ---
 

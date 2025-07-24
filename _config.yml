@@ -1,7 +1,7 @@
 title: "Ajnunna Systems LLC - Public Documentation"
 description: "Industry insights and reports on streaming operations and technology"
 baseurl: "/ajnunna-public-docs"
-url: "https://ajnunna-systems.github.io/ajnunna-public-docs"
+url: "https://swag.ajnunnasystems.com/ajnunna-public-docs"
 
 # Build settings
 markdown: kramdown
