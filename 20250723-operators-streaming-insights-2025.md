@@ -120,6 +120,7 @@ Multiple operators used the word "scared" or "powerless" when describing their r
 ---
 
 ## What Everyone Wishes Existed
+![A two-panel comic-style illustration shows a streaming operator split between two environments. On the left labeled ‘BEFORE,’ he looks anxious in front of cluttered dashboards overloaded with alert icons and downward metrics. On the right labeled ‘AFTER,’ he smiles confidently while facing clean, unified dashboards showing checklists, pie charts, and upward trends.](/assets/images/2025/ops-better-tooling.png)
 
 When we asked "If you could redesign detection from scratch," the responses weren't about more features or fancier dashboards. They were about fundamentally different approaches:
 
@@ -149,8 +150,8 @@ When dealing with live streams, even 30-second-old data is ancient history. Team
 ---
 
 ## Still Doing *This* in 2025?
-
 ![A comic-style triptych shows a streaming operator performing three tasks: eyeballing XML, waiting for a vendor to pick up the phone, and sending status updates while juggling alerts. Each panel has a timer increasing from 00:00 to 01:01, emphasizing burnout from repetitive work.](/assets/images/2025/ops-burnout-task-collage.png)
+
 🔥 Pain scale: More flames = more burnout
 
 | Task | Why It Hurts | Universal Pain Level |
