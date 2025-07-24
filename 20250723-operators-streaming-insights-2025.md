@@ -20,6 +20,8 @@ We talked to a good number of streaming ops professionals like you. Here's what 
 
 **Bottom Line:** If you feel like you're drowning in alerts while starved for actual guidance, you're in good company. Every tier of streaming—from giants to regionals—faces the same struggles.
 
+&nbsp;&nbsp;&nbsp;
+
 ---
 
 ## Who's in the Same Boat as You
@@ -35,11 +37,16 @@ We heard from professionals across the industry:
 
 Whether you're working the overnight shift at a Tier-1 streamer or keeping a regional sports platform alive, the pain points are remarkably universal.
 
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+
 ---
 
 ## The Daily Reality: Scenarios You'll Recognize
 
 **Red Light Paralysis:** That moment when everything turns red but nobody knows where to start or what’s safe to touch. It's not just frustrating—it’s operationally paralyzing.
+
+&nbsp;&nbsp;&nbsp;
 
 ![An overwhelmed streaming operator at 3 a.m. searches through outdated documentation as alarms blare behind them.](/assets/images/2025/ops-breakdown-3am-runbook.png)
 ### Scenario 1: The 3 AM Knowledge Hunt
@@ -54,6 +61,7 @@ You spend 20 minutes searching for the right document, trying different search t
 
 **You're Not Alone:** This exact scenario plays out nightly across the industry. One operator described spending "27 minutes proving it wasn't the encoder" because the documentation didn't match the current system configuration.
 
+&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
 
 ![A woman holds her head in frustration next to a sweating man working urgently on a laptop in a control room. Behind them, screens flash ‘ALERT,’ ‘404,’ and green ‘OK’ indicators. A speakerphone displays a speech bubble with a video player and a tier 1 support voice saying: ‘All our users are jumping ship—we need to fix this ASAP!’](/assets/images/2025/ops-breakdown-red-dashboard.png)
@@ -70,6 +78,7 @@ You have visibility into everything but clarity on nothing. Each tool shows a di
 **You're Not Alone:** A live ops contractor shared: "I could see the problem, but I didn't know if I was allowed to fix it. I just waited." This powerlessness in the face of data overload is industry-wide.
 
 &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 ![A man sits at a desk, focused on a monitor displaying VAST XML and a countdown labeled ‘00:05’. In a corner inset, the same man—now visibly more tired—rests his head on one hand, with a timer reading ‘00:45:28’, emphasizing how long the task dragged on.](/assets/images/2025/ops-breakdown-manual-validation.png)
 ### Scenario 3: The Manual Validation Marathon
@@ -84,6 +93,7 @@ You're copying responses into text editors, checking durations, verifying format
 
 **You're Not Alone:** An ad ops manager reported this adds "4-10 minutes per incident and is error-prone." Multiply that across hundreds of events, and you see why everyone's burned out.
 
+&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
 
 ![A man and a woman in a control room look overwhelmed while examining confusing system dashboards. The man appears deep in thought while the woman holds a phone and a clipboard. A thought bubble shows an engineer peacefully asleep, representing the missing expert. A desk sign reads: ‘Escalation pending…’](/assets/images/2025/ops-breakdown-expertise-bottleneck.png)
@@ -101,6 +111,7 @@ You're stuck in limbo—seeing the issue but unable to act. The fear of making t
 
 **You're Not Alone:** This scenario frustrates everyone from junior operators ("scared to do troubleshooting steps") to senior engineers ("constantly pulled from strategic work to firefight").
 
+&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
 
 ---
