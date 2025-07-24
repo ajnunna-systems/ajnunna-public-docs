@@ -60,6 +60,7 @@ You spend 20 minutes searching for the right document, trying different search t
 Everything turns red at once. Alarms flood in—player errors, CDN alerts, ad server timeouts. Where do you even start?
 
 🛑 Ops Breakdown:
+![A woman holds her head in frustration next to a sweating man working urgently on a laptop in a control room. Behind them, screens flash ‘ALERT,’ ‘404,’ and green ‘OK’ indicators. A speakerphone displays a speech bubble with a video player and a tier 1 support voice saying: ‘All our users are jumping ship—we need to fix this ASAP!’](/assets/images/2025/ops-breakdown-red-dashboard.png)
 > "Alarm flood, no root cause. Metrics said 'green'. Viewers saw spinning wheels."
 
 You have visibility into everything but clarity on nothing. Each tool shows a different slice of the problem. By the time you correlate between systems, viewers have already jumped to a competitor.
