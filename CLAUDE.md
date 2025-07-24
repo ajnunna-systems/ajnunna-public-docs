@@ -56,10 +56,16 @@ This is a GitHub Pages site with Jekyll processing:
   **Author:** Ajnunna Systems LLC  
   **Date:** [Publication Date]
   
-  [Document Title](https://ajnunnasystems.github.io/ajnunna-public-docs) © 2025 by [Ajnunna Systems LLC](https://github.com/orgs/ajnunna-systems) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 
+  ---
   
-  ![CC](https://mirrors.creativecommons.org/presskit/icons/cc.svg) 
-  ![BY](https://mirrors.creativecommons.org/presskit/icons/by.svg)
-  ![SA](https://mirrors.creativecommons.org/presskit/icons/sa.svg)
+  <div class="license-section" markdown="1">
+  
+  **[Document Title]({{ "/" | relative_url }}) © 2025 by [Ajnunna Systems LLC](https://github.com/orgs/ajnunna-systems)** is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+  
+  ![CC](https://mirrors.creativecommons.org/presskit/icons/cc.svg){: style="height: 1.2em; margin: 0 0.2em; vertical-align: middle;"}
+  ![BY](https://mirrors.creativecommons.org/presskit/icons/by.svg){: style="height: 1.2em; margin: 0 0.2em; vertical-align: middle;"}
+  ![SA](https://mirrors.creativecommons.org/presskit/icons/sa.svg){: style="height: 1.2em; margin: 0 0.2em; vertical-align: middle;"}
+  
+  </div>
   ```
 - **GitHub Pages**: CLAUDE.md is excluded from site build via _config.yml exclude list

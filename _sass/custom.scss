@@ -158,9 +158,47 @@ pre {
   display: none;
 }
 
+// Hide the entire navigation bar area
+.site-header .wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.site-nav, 
+.page-link,
+.trigger {
+  display: none !important;
+}
+
+// Hide any breadcrumb or page navigation
+.post-nav,
+.page-nav,
+nav[role="navigation"],
+.breadcrumbs,
+.page-content > p:first-child {
+  display: none !important;
+}
+
+// Hide the first paragraph if it contains navigation links
+.page-content .wrapper > p:first-child {
+  display: none !important;
+}
+
 // Improve navigation/breadcrumb area
 .page-content .wrapper {
   padding-top: 1rem;
+}
+
+// Make site header cleaner and more prominent
+.site-header {
+  text-align: center;
+  padding: 1.5rem 0;
+  
+  .site-title {
+    font-size: 1.8rem !important;
+    font-weight: 700;
+  }
 }
 
 // Responsive improvements

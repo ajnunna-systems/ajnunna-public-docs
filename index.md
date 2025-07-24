@@ -3,7 +3,7 @@ layout: default
 title: "Ajnunna Systems LLC - Public Documentation"
 ---
 
-# Welcome to Ajnunna Systems LLC
+# Welcome
 
 This site contains our public documentation, industry insights, and reports focused on streaming operations and technology.
 
