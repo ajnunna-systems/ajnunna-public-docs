@@ -150,6 +150,7 @@ When dealing with live streams, even 30-second-old data is ancient history. Team
 
 ## Still Doing *This* in 2025?
 
+![A comic-style triptych shows a streaming operator performing three tasks: copying XML by hand, frantically searching a contact directory, and sending status updates while juggling alerts. Each panel has a red flame icon and a timer increasing from 00:00 to 01:01, emphasizing burnout from repetitive work.](/assets/images/2025/ops-burnout-task-collage.png)
 🔥 Pain scale: More flames = more burnout
 
 | Task | Why It Hurts | Universal Pain Level |
