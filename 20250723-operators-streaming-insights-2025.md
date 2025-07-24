@@ -233,6 +233,7 @@ Let’s stop pretending burnout is normal. It’s not. Better is possible—and 
 ---
 
 ## Thank You
+![A comic-style illustration shows a calm IT operator closing an alert window on their monitor. The screen displays a message: ‘Incident Closed – Automation Triggered Successfully.’ Outside the window, a soft sunrise glows. A sticky note on the desk reads: ‘Don’t wake me unless it’s fun.’](/assets/images/2025/ops-manifesto-closing-panel.png)
 
 To everyone who shared their stories, frustrations, and hopes for the future: this report exists because of your candor. Your experiences matter, and they're shaping what comes next.
 
