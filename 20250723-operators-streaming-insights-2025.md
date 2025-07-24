@@ -73,6 +73,7 @@ You have visibility into everything but clarity on nothing. Each tool shows a di
 Pre-event checklist says "validate ad responses." What should take 5 minutes becomes a 45-minute ordeal.
 
 🛑 Ops Breakdown:
+![A man sits at a desk, focused on a monitor displaying VAST XML and a countdown labeled ‘00:05’. In a corner inset, the same man—now visibly more tired—rests his head on one hand, with a timer reading ‘00:45:28’, emphasizing how long the task dragged on.](/assets/images/2025/ops-breakdown-manual-validation.png)
 > "We still have to manually check ads before going live. It's 2025 and we're eyeballing XML."
 
 You're copying responses into text editors, checking durations, verifying formats—all by hand. One typo in an ad tag crashes the whole monetization strategy. And this is for EVERY event.
