@@ -54,6 +54,8 @@ You spend 20 minutes searching for the right document, trying different search t
 
 **You're Not Alone:** This exact scenario plays out nightly across the industry. One operator described spending "27 minutes proving it wasn't the encoder" because the documentation didn't match the current system configuration.
 
+&nbsp;&nbsp;&nbsp;
+
 ![A woman holds her head in frustration next to a sweating man working urgently on a laptop in a control room. Behind them, screens flash ‘ALERT,’ ‘404,’ and green ‘OK’ indicators. A speakerphone displays a speech bubble with a video player and a tier 1 support voice saying: ‘All our users are jumping ship—we need to fix this ASAP!’](/assets/images/2025/ops-breakdown-red-dashboard.png)
 ### Scenario 2: The Red Dashboard Paralysis
 
@@ -67,6 +69,8 @@ You have visibility into everything but clarity on nothing. Each tool shows a di
 
 **You're Not Alone:** A live ops contractor shared: "I could see the problem, but I didn't know if I was allowed to fix it. I just waited." This powerlessness in the face of data overload is industry-wide.
 
+&nbsp;&nbsp;&nbsp;
+
 ![A man sits at a desk, focused on a monitor displaying VAST XML and a countdown labeled ‘00:05’. In a corner inset, the same man—now visibly more tired—rests his head on one hand, with a timer reading ‘00:45:28’, emphasizing how long the task dragged on.](/assets/images/2025/ops-breakdown-manual-validation.png)
 ### Scenario 3: The Manual Validation Marathon
 
@@ -79,6 +83,8 @@ Pre-event checklist says "validate ad responses." What should take 5 minutes bec
 You're copying responses into text editors, checking durations, verifying formats—all by hand. One typo in an ad tag crashes the whole monetization strategy. And this is for EVERY event.
 
 **You're Not Alone:** An ad ops manager reported this adds "4-10 minutes per incident and is error-prone." Multiply that across hundreds of events, and you see why everyone's burned out.
+
+&nbsp;&nbsp;&nbsp;
 
 ![A man and a woman in a control room look overwhelmed while examining confusing system dashboards. The man appears deep in thought while the woman holds a phone and a clipboard. A thought bubble shows an engineer peacefully asleep, representing the missing expert. A desk sign reads: ‘Escalation pending…’](/assets/images/2025/ops-breakdown-expertise-bottleneck.png)
 ### Scenario 4: The Expertise Bottleneck
@@ -94,6 +100,8 @@ Complex issue arises. You know roughly what's wrong but not how to fix it safely
 You're stuck in limbo—seeing the issue but unable to act. The fear of making things worse paralyzes the whole team. Eventually, you escalate, wake someone up, and feel guilty about it.
 
 **You're Not Alone:** This scenario frustrates everyone from junior operators ("scared to do troubleshooting steps") to senior engineers ("constantly pulled from strategic work to firefight").
+
+&nbsp;&nbsp;&nbsp;
 
 ---
 
@@ -116,6 +124,8 @@ The industry has a fundamental knowledge problem, and it's not your fault:
 
 ### The Fear Factor
 Multiple operators used the word "scared" or "powerless" when describing their response to issues. This isn't a skills problem—it's a confidence and information problem.
+
+&nbsp;&nbsp;&nbsp;
 
 ---
 
@@ -147,6 +157,8 @@ When dealing with live streams, even 30-second-old data is ancient history. Team
 > ⚠️ **Beware the Wrong AI**  
 > AI that doesn’t work consistently—or requires operators to babysit it—adds risk, not value. Several pros emphasized: “It’s easier to have a human do it when volumes are low.” Use AI where it **removes steps**, not where it **adds more margin for error**.
 
+&nbsp;&nbsp;&nbsp;
+
 ---
 
 ## Still Doing *This* in 2025?
@@ -165,6 +177,8 @@ When dealing with live streams, even 30-second-old data is ancient history. Team
 One senior engineer summarized: "I can't believe we're still doing this manually in 2025."
 
 Operators consistently warned against the trap of “fluff metrics”—pretty dashboards filled with irrelevant data. One put it simply: “I don’t need green. I need clarity on the reds and yellows.”
+
+&nbsp;&nbsp;&nbsp;
 
 ---
 
@@ -186,6 +200,8 @@ Operators consistently warned against the trap of “fluff metrics”—pretty d
 ### On the Future:
 > "It's not about replacing us—it's about helping us stop guessing and start solving."
 
+&nbsp;&nbsp;&nbsp;
+
 ---
 
 ## Industry Context: You're Part of Something Massive
@@ -195,6 +211,8 @@ While you're fighting fires, here's what's happening at the macro level:
 - Streaming now commands 44.8% of total TV usage, surpassing broadcast and cable combined¹
 - The industry generates billions, yet operations teams still struggle with basic tooling
 - 87% of tech leaders report difficulty finding skilled people²
+
+&nbsp;&nbsp;&nbsp;
 
 ---
 
@@ -208,6 +226,8 @@ While you're fighting fires, here's what's happening at the macro level:
 
 4. **Small Wins Count:** Start documenting your own solutions. Share that one weird fix that always works. Build informal networks with peers at other companies.
 
+&nbsp;&nbsp;&nbsp;
+
 ---
 
 ## What You Can Do Today
@@ -216,6 +236,8 @@ While you're fighting fires, here's what's happening at the macro level:
 - Shadow teammates during incident response to build shared mental models
 - Audit your runbooks—what’s stale, missing, or single-person-dependent?
 - Push for tooling trials that focus on **workflow clarity**, not just new metrics
+
+&nbsp;&nbsp;&nbsp;
 
 ---
 
@@ -230,14 +252,17 @@ While you're fighting fires, here's what's happening at the macro level:
 
 Let’s stop pretending burnout is normal. It’s not. Better is possible—and it starts with listening to the people closest to the fire.
 
----
+&nbsp;&nbsp;&nbsp;
+
+![A comic-style illustration shows a calm IT operator closing an alert window on their monitor. The screen displays a message: ‘Incident Closed – Automation Triggered Successfully.’ Outside the window, a soft sunrise glows. A sticky note on the desk reads: ‘Don’t wake me unless it’s fun.’](/assets/images/2025/ops-manifesto-closing-panel.png)
 
 ## Thank You
-![A comic-style illustration shows a calm IT operator closing an alert window on their monitor. The screen displays a message: ‘Incident Closed – Automation Triggered Successfully.’ Outside the window, a soft sunrise glows. A sticky note on the desk reads: ‘Don’t wake me unless it’s fun.’](/assets/images/2025/ops-manifesto-closing-panel.png)
 
 To everyone who shared their stories, frustrations, and hopes for the future: this report exists because of your candor. Your experiences matter, and they're shaping what comes next.
 
 **Let’s build what’s next—together. If you're working on (or stuck in) any of these realities, I want to hear from you.**
+
+&nbsp;&nbsp;&nbsp;
 
 ---
 
@@ -247,10 +272,14 @@ To everyone who shared their stories, frustrations, and hopes for the future: th
 
 *All quotes and scenarios have been anonymized to protect individual and company identities. Industry statistics are sourced from public reports as cited.*
 
+&nbsp;&nbsp;&nbsp;
+
 ---
 
 **Author:** Jun Heider
 **Date:** July 23, 2025
+
+&nbsp;&nbsp;&nbsp;
 
 ---
 
