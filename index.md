@@ -7,9 +7,14 @@ title: "Ajnunna Systems LLC - Public Documentation"
 
 This site contains our public documentation, industry insights, and reports focused on streaming operations and technology.
 
+## Why We're Here
+
+At Ajnunna Systems, we're building what's next in streaming and automation—modular tools designed to give teams control, clarity, and speed across media operations.
+
 ## Latest Reports
 
-- [Streaming Operations Reality Check 2025: You're Not Alone](./20250723-operators-streaming-insights-2025) - July 23, 2025
+- [Streaming Operations Reality Check 2025: You're Not Alone](./20250723-operators-streaming-insights-2025)  
+  A candid look at real-world pain points from operators across the streaming industry—knowledge gaps, alert fatigue, and the path forward. *(Published July 23, 2025)*
 
 ## About
 
