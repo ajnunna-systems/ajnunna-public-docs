@@ -45,6 +45,7 @@ Whether you're working the overnight shift at a Tier-1 streamer or keeping a reg
 Major event stream starts buffering. Your monitoring shows CDN response times spiking. You know there's a runbook for this somewhere...
 
 🛑 Ops Breakdown:
+![An overwhelmed streaming operator at 3 a.m. searches through outdated documentation as alarms blare behind them.](/assets/images/2025/ops-breakdown-3am-runbook.png)
 > "Docs existed—somewhere in Confluence labyrinth—useless at 3 a.m."
 
 You spend 20 minutes searching for the right document, trying different search terms. When you finally find it, it references a tool that was deprecated six months ago. You end up calling the senior engineer who's supposed to be off rotation.
