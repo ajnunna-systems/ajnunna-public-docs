@@ -86,6 +86,7 @@ You're copying responses into text editors, checking durations, verifying format
 Complex issue arises. You know roughly what's wrong but not how to fix it safely. The one person who does know is unreachable.
 
 🛑 Ops Breakdown:
+![A man and a woman in a control room look overwhelmed while examining confusing system dashboards. The man appears deep in thought while the woman holds a phone and a clipboard. A thought bubble shows an engineer peacefully asleep, representing the missing expert. A desk sign reads: ‘Escalation pending…’](/assets/images/2025/ops-breakdown-expertise-bottleneck.png)
 > "We have a few key people who know everything. When they're not available, we're flying blind."
 
 > "The one engineer who knows was asleep; we just stared at graphs."
