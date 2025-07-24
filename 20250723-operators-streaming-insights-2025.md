@@ -240,7 +240,7 @@ To everyone who shared their stories, frustrations, and hopes for the future: th
 
 ---
 
-**Author:** Ajnunna Systems LLC  
+**Author:** Jun Heider
 **Date:** July 23, 2025
 
 ---
