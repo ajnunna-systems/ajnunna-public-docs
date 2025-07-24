@@ -41,52 +41,52 @@ Whether you're working the overnight shift at a Tier-1 streamer or keeping a reg
 
 **Red Light Paralysis:** That moment when everything turns red but nobody knows where to start or what’s safe to touch. It's not just frustrating—it’s operationally paralyzing.
 
+![An overwhelmed streaming operator at 3 a.m. searches through outdated documentation as alarms blare behind them.](/assets/images/2025/ops-breakdown-3am-runbook.png)
 ### Scenario 1: The 3 AM Knowledge Hunt
 
 **What Happens:**
 Major event stream starts buffering. Your monitoring shows CDN response times spiking. You know there's a runbook for this somewhere...
 
 🛑 Ops Breakdown:
-![An overwhelmed streaming operator at 3 a.m. searches through outdated documentation as alarms blare behind them.](/assets/images/2025/ops-breakdown-3am-runbook.png)
 > "Docs existed—somewhere in Confluence labyrinth—useless at 3 a.m."
 
 You spend 20 minutes searching for the right document, trying different search terms. When you finally find it, it references a tool that was deprecated six months ago. You end up calling the senior engineer who's supposed to be off rotation.
 
 **You're Not Alone:** This exact scenario plays out nightly across the industry. One operator described spending "27 minutes proving it wasn't the encoder" because the documentation didn't match the current system configuration.
 
+![A woman holds her head in frustration next to a sweating man working urgently on a laptop in a control room. Behind them, screens flash ‘ALERT,’ ‘404,’ and green ‘OK’ indicators. A speakerphone displays a speech bubble with a video player and a tier 1 support voice saying: ‘All our users are jumping ship—we need to fix this ASAP!’](/assets/images/2025/ops-breakdown-red-dashboard.png)
 ### Scenario 2: The Red Dashboard Paralysis
 
 **What Happens:**
 Everything turns red at once. Alarms flood in—player errors, CDN alerts, ad server timeouts. Where do you even start?
 
 🛑 Ops Breakdown:
-![A woman holds her head in frustration next to a sweating man working urgently on a laptop in a control room. Behind them, screens flash ‘ALERT,’ ‘404,’ and green ‘OK’ indicators. A speakerphone displays a speech bubble with a video player and a tier 1 support voice saying: ‘All our users are jumping ship—we need to fix this ASAP!’](/assets/images/2025/ops-breakdown-red-dashboard.png)
 > "Alarm flood, no root cause. Metrics said 'green'. Viewers saw spinning wheels."
 
 You have visibility into everything but clarity on nothing. Each tool shows a different slice of the problem. By the time you correlate between systems, viewers have already jumped to a competitor.
 
 **You're Not Alone:** A live ops contractor shared: "I could see the problem, but I didn't know if I was allowed to fix it. I just waited." This powerlessness in the face of data overload is industry-wide.
 
+![A man sits at a desk, focused on a monitor displaying VAST XML and a countdown labeled ‘00:05’. In a corner inset, the same man—now visibly more tired—rests his head on one hand, with a timer reading ‘00:45:28’, emphasizing how long the task dragged on.](/assets/images/2025/ops-breakdown-manual-validation.png)
 ### Scenario 3: The Manual Validation Marathon
 
 **What Happens:**
 Pre-event checklist says "validate ad responses." What should take 5 minutes becomes a 45-minute ordeal.
 
 🛑 Ops Breakdown:
-![A man sits at a desk, focused on a monitor displaying VAST XML and a countdown labeled ‘00:05’. In a corner inset, the same man—now visibly more tired—rests his head on one hand, with a timer reading ‘00:45:28’, emphasizing how long the task dragged on.](/assets/images/2025/ops-breakdown-manual-validation.png)
 > "We still have to manually check ads before going live. It's 2025 and we're eyeballing XML."
 
 You're copying responses into text editors, checking durations, verifying formats—all by hand. One typo in an ad tag crashes the whole monetization strategy. And this is for EVERY event.
 
 **You're Not Alone:** An ad ops manager reported this adds "4-10 minutes per incident and is error-prone." Multiply that across hundreds of events, and you see why everyone's burned out.
 
+![A man and a woman in a control room look overwhelmed while examining confusing system dashboards. The man appears deep in thought while the woman holds a phone and a clipboard. A thought bubble shows an engineer peacefully asleep, representing the missing expert. A desk sign reads: ‘Escalation pending…’](/assets/images/2025/ops-breakdown-expertise-bottleneck.png)
 ### Scenario 4: The Expertise Bottleneck
 
 **What Happens:**
 Complex issue arises. You know roughly what's wrong but not how to fix it safely. The one person who does know is unreachable.
 
 🛑 Ops Breakdown:
-![A man and a woman in a control room look overwhelmed while examining confusing system dashboards. The man appears deep in thought while the woman holds a phone and a clipboard. A thought bubble shows an engineer peacefully asleep, representing the missing expert. A desk sign reads: ‘Escalation pending…’](/assets/images/2025/ops-breakdown-expertise-bottleneck.png)
 > "We have a few key people who know everything. When they're not available, we're flying blind."
 
 > "The one engineer who knows was asleep; we just stared at graphs."
