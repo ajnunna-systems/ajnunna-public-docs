@@ -5,6 +5,8 @@ title: "Streaming Operations Reality Check 2025: You're Not Alone"
 
 # Streaming Operations Reality Check 2025: You're Not Alone
 
+![Three diverse streaming operations professionals respond to a system outage in a control room. A woman focuses intensely on her laptop while a worried man covers his mouth in concern and another man speaks urgently on the phone. Surrounding monitors flash with warnings like ‘ALERT,’ ‘404 ERROR,’ and buffering symbols.](/assets/images/2025/operators-streaming-insights-hero.png)
+
 ## TL;DR – If you're overwhelmed by alerts, unsure who's on-call, and still manually validating ad tags in 2025, you're not broken—the system is.
 
 We talked to a good number of streaming ops professionals like you. Here's what everyone's dealing with:
